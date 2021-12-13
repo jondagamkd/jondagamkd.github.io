@@ -3,6 +3,8 @@ import React from "react";
 const Resume = () => (
   <div>
     <h1>Resume Page</h1>
+    <a href="#">Link to resume coming soon!</a>
+    <p></p>
     <p>
       Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui mauris,
       ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus porta. Nam

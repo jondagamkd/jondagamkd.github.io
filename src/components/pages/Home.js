@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => (
   <div>
-    <h1>About Me</h1>
+    <h1>John Woodland</h1>
     <img src={require('../../assets/img/jtw.jpg').default}/>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
