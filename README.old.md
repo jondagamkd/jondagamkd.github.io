@@ -1,1 +1,0 @@
-# jondagamkd.github.io
