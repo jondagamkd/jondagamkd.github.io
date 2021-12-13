@@ -2,7 +2,8 @@ import React from "react";
 
 const Home = () => (
   <div>
-    <h1>Home Page</h1>
+    <h1>About Me</h1>
+    <img src={require('../../assets/img/jtw.jpg').default}/>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
       varius, blandit rhoncus sem. Morbi lacinia nisi ac dui fermentum, sed luctus urna tincidunt.

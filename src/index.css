@@ -5,7 +5,7 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
+  --primary: #54ff73;
   --secondary: #F3A847;
   --tertiary: #B12704;
   --light: #fafafa;
@@ -14,7 +14,7 @@ main {
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
-  --spacing-five: calc(2.5rem);
+  --spacing-five: calc(3.2rem);
 
 }
 
@@ -79,6 +79,7 @@ h6 {
 p {
   font-size: 1.1rem;
   margin-top: 0;
+  width: 700px;
 }
 
 a {
@@ -292,4 +293,16 @@ a {
 
 .navActive {
   color: var(--secondary);
+}
+
+#header {
+  padding-left: 0px;
+}
+
+div {
+  padding-left: 15px;
+}
+
+#footer {
+  padding-left: 30%;
 }
