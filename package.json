@@ -1,7 +1,7 @@
 {
   "name": "jondagamkd.github.io",
   "version": "0.1.0",
-  "homepage": "https://jondagamkd.github.io/",
+  "homepage": "https://jondagamkd.github.io/jondagamkd.github.io",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
